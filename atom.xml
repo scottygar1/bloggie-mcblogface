@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Portfolio</title>
+  
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://scottygar.github.io/blog/"/>
+  <updated>2016-06-21T15:36:50.000Z</updated>
+  <id>https://scottygar.github.io/blog/</id>
+  
+  <author>
+    <name>Scott Gardiner</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#longestweek</title>
+    <link href="https://scottygar.github.io/blog/2016/06/17/longestweek/"/>
+    <id>https://scottygar.github.io/blog/2016/06/17/longestweek/</id>
+    <published>2016-06-17T15:20:00.000Z</published>
+    <updated>2016-06-21T15:36:50.000Z</updated>
+    
+    <content type="html">&lt;p&gt;This week has been a fruitful, if extremely long week.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Factory 1 config is nearing completion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yes, that’s all I’ve done. All week. From start to finish. Monday to Friday. ALL WEEK!&lt;/p&gt;
+&lt;p&gt;Learnings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Copying a factory instance is not as easy as it sounds. (Don’t try it again - and if you do, be aware that there’s a lot of stuff you need to re-configure).&lt;/li&gt;
+&lt;li&gt;Jenkins allows for configurable builds, and you can carry variables through those builds for deployment purposes.&lt;/li&gt;
+&lt;li&gt;The original SOAP tests that I wrote on my first service were awful, and I need to re-do them.&lt;/li&gt;
+&lt;li&gt;SOAP has an option to add the same endpoint to all services, meaning I will waste no further time typing it in manually.&lt;/li&gt;
+&lt;li&gt;If you’re in the admin console, your build will not deploy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All in all, it’s been a good week for learning. I now know what the build scripts actually do (and where they are failing silently), so I can go and amend them over the next couple of weeks. I really need to get to grips with Datagrid and deployments to SIT before Douglas goes away though.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This week has been a fruitful, if extremely long week.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Factory 1 config is nearing completion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yes, that’s all
+    
+    </summary>
+    
+      <category term="Work" scheme="https://scottygar.github.io/blog/categories/Work/"/>
+    
+    
+      <category term="Factory" scheme="https://scottygar.github.io/blog/tags/Factory/"/>
+    
+      <category term="Environment" scheme="https://scottygar.github.io/blog/tags/Environment/"/>
+    
+      <category term="Tibco" scheme="https://scottygar.github.io/blog/tags/Tibco/"/>
+    
+      <category term="Config" scheme="https://scottygar.github.io/blog/tags/Config/"/>
+    
+      <category term="Jenkins" scheme="https://scottygar.github.io/blog/tags/Jenkins/"/>
+    
+      <category term="Build" scheme="https://scottygar.github.io/blog/tags/Build/"/>
+    
+      <category term="Script" scheme="https://scottygar.github.io/blog/tags/Script/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>#factory</title>
+    <link href="https://scottygar.github.io/blog/2016/06/13/factory/"/>
+    <id>https://scottygar.github.io/blog/2016/06/13/factory/</id>
+    <published>2016-06-13T15:49:00.000Z</published>
+    <updated>2016-06-13T19:11:38.000Z</updated>
+    
+    <content type="html">&lt;p&gt;The learning curve continues:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clean setup and config of new Continuous Integration Server (Factory1).&lt;/li&gt;
+&lt;li&gt;Loans service completed.&lt;/li&gt;
+&lt;li&gt;Update Money Transfer code.&lt;/li&gt;
+&lt;li&gt;Demo of JSON parsing for the rest of the team.&lt;/li&gt;
+&lt;li&gt;Learning deployment processes for when Douglas is away.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Factory 1 setup has been an absolute beast. (Though I did spend a long time looking at port config, which has been resolved by the VPN I knew nothing about..). The re-config of Tibco machines and Jenkins integration is still being a pest, but I’m getting there.&lt;/p&gt;
+&lt;p&gt;Loans was a different challenge, but one that went really well. I feel like I’m getting a broader knowledge of the business as a whole.&lt;/p&gt;
+&lt;p&gt;JSON parse demo went really well -&lt;br&gt;The others gave me some food for thought and some tweaks I could make.&lt;/p&gt;
+&lt;p&gt;Deployment processes seem…. interesting. There’s a lot of paperwork, and I need the full end to end process documented before Douglas leaves.&lt;/p&gt;
+&lt;p&gt;In other news, CB didn’t like my App idea that I submitted, so some thinking to do before next year.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;The learning curve continues:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clean setup and config of new Continuous Integration Server (Factory1).&lt;/li&gt;
+&lt;li&gt;Loans service
+    
+    </summary>
+    
+      <category term="Work" scheme="https://scottygar.github.io/blog/categories/Work/"/>
+    
+    
+      <category term="Factory" scheme="https://scottygar.github.io/blog/tags/Factory/"/>
+    
+      <category term="Environment" scheme="https://scottygar.github.io/blog/tags/Environment/"/>
+    
+      <category term="Tibco" scheme="https://scottygar.github.io/blog/tags/Tibco/"/>
+    
+      <category term="Config" scheme="https://scottygar.github.io/blog/tags/Config/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>#holiday</title>
+    <link href="https://scottygar.github.io/blog/2016/05/18/holiday/"/>
+    <id>https://scottygar.github.io/blog/2016/05/18/holiday/</id>
+    <published>2016-05-18T09:53:00.000Z</published>
+    <updated>2016-05-18T10:04:00.000Z</updated>
+    
+    <content type="html">&lt;p&gt;This week has been a learning curve of sorts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JSON handling PoC completed and stored for future use.&lt;/li&gt;
+&lt;li&gt;RESTful service PoC completed for PCU and stored for future use.&lt;/li&gt;
+&lt;li&gt;IA completed for a new loans service.&lt;/li&gt;
+&lt;li&gt;IA completed for PCAO.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;IAs are not the easiest thing in the world - Basically trying to step through all the changes you need to make without actually completing them, and trying to foresee any issues this may cause.&lt;/p&gt;
+&lt;p&gt;The JSON handling is in a state where it works, as long as the order is specified - which isn’t really what JSON is about, so some refactoring to do there. (Or the potential purchase of a plugin to make it easier).&lt;/p&gt;
+&lt;p&gt;RESTful service is completed and ready to use / be adapted for future use in other projects - I think this will happen if we promote the fact that we can do it.&lt;/p&gt;
+&lt;p&gt;Now for holiday - Bring on Portugal.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This week has been a learning curve of sorts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JSON handling PoC completed and stored for future use.&lt;/li&gt;
+&lt;li&gt;RESTful servic
+    
+    </summary>
+    
+      <category term="Work" scheme="https://scottygar.github.io/blog/categories/Work/"/>
+    
+    
+      <category term="JSON" scheme="https://scottygar.github.io/blog/tags/JSON/"/>
+    
+      <category term="REST" scheme="https://scottygar.github.io/blog/tags/REST/"/>
+    
+      <category term="IA" scheme="https://scottygar.github.io/blog/tags/IA/"/>
+    
+      <category term="Holiday" scheme="https://scottygar.github.io/blog/tags/Holiday/"/>
+    
+      <category term="Learning" scheme="https://scottygar.github.io/blog/tags/Learning/"/>
+    
+      <category term="PoC" scheme="https://scottygar.github.io/blog/tags/PoC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>#no</title>
+    <link href="https://scottygar.github.io/blog/2016/05/11/no/"/>
+    <id>https://scottygar.github.io/blog/2016/05/11/no/</id>
+    <published>2016-05-11T15:41:00.000Z</published>
+    <updated>2016-05-11T15:59:19.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;strong&gt;This Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I have said no. On multiple occasions. And nothing bad has come of it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JobFamilies is complete and we’re not implementing top scrollbars.&lt;/li&gt;
+&lt;li&gt;Company-wide JobFamilies is not going to be made by us.&lt;/li&gt;
+&lt;li&gt;The SMF tool isn’t an option for us. We just don’t have time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Factory 2 mocks have had my life for several days, and I have admitted defeat; for now.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;I have finished my Qualys VBA coding and handed off.&lt;/li&gt;
+&lt;li&gt;I am looking at parsing JSON into Tibco, library imports and java are not playing easily, but I am trying to get a handle on it.&lt;/li&gt;
+&lt;li&gt;Tibco training went well, though I don’t feel I actually learnt much (The highlight was correcting the textbook).&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;This Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I have said no. On multiple occasions. And nothing bad has come of it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JobFamili
+    
+    </summary>
+    
+      <category term="Work" scheme="https://scottygar.github.io/blog/categories/Work/"/>
+    
+    
+      <category term="Tibco" scheme="https://scottygar.github.io/blog/tags/Tibco/"/>
+    
+      <category term="Java" scheme="https://scottygar.github.io/blog/tags/Java/"/>
+    
+      <category term="PersonalDevelopment" scheme="https://scottygar.github.io/blog/tags/PersonalDevelopment/"/>
+    
+      <category term="VBA" scheme="https://scottygar.github.io/blog/tags/VBA/"/>
+    
+      <category term="Training" scheme="https://scottygar.github.io/blog/tags/Training/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>#recap</title>
+    <link href="https://scottygar.github.io/blog/2016/05/02/recap/"/>
+    <id>https://scottygar.github.io/blog/2016/05/02/recap/</id>
+    <published>2016-05-02T17:36:00.000Z</published>
+    <updated>2016-05-03T09:37:56.000Z</updated>
+    
+    <content type="html">&lt;p&gt;September to now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BAU&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tibco integration bootcamp course in Rotterdam - &lt;a href=&quot;http://inter.viewcentral.com/events/cust/search_results.aspx?keyword=&amp;cat4_id=28&amp;eventMonthYear=&amp;event_id=23&amp;cat1_id=&amp;postingForm=default.aspx&amp;cid=tibco&amp;pid=1&amp;lid=5&amp;cart_currency_code=&amp;payment_type=&amp;orderby_location=&amp;orderby_date=&amp;newRegistration=&amp;bundle_location_group=&amp;errmsg=&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;BW611&lt;/a&gt;.&lt;br&gt;  Code in production:&lt;ul&gt;
+&lt;li&gt;Activate Card&lt;/li&gt;
+&lt;li&gt;Direct Debit&lt;/li&gt;
+&lt;li&gt;Logging &amp;amp; Error Upgrades&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Project Work&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JobFamilies project with the other Grads - &lt;a href=&quot;https://jobfamilies.tbdevops.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;JobFamilies&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;RCSA improvements made, input form created for easier business usage.&lt;/li&gt;
+&lt;li&gt;Qualys scripting work completed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Other Highlights&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nominated by Derek for Chartered Banker: Young Banker of the Year 2016.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;September to now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BAU&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tibco integration bootcamp course in Rotterdam - &lt;a href=&quot;http://inter.viewcen
+    
+    </summary>
+    
+      <category term="Work" scheme="https://scottygar.github.io/blog/categories/Work/"/>
+    
+    
+      <category term="Tibco" scheme="https://scottygar.github.io/blog/tags/Tibco/"/>
+    
+      <category term="FirstPost" scheme="https://scottygar.github.io/blog/tags/FirstPost/"/>
+    
+      <category term="BAU" scheme="https://scottygar.github.io/blog/tags/BAU/"/>
+    
+      <category term="RCSA" scheme="https://scottygar.github.io/blog/tags/RCSA/"/>
+    
+      <category term="YBOY" scheme="https://scottygar.github.io/blog/tags/YBOY/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>#blogstart</title>
+    <link href="https://scottygar.github.io/blog/2016/04/29/blogstart/"/>
+    <id>https://scottygar.github.io/blog/2016/04/29/blogstart/</id>
+    <published>2016-04-29T20:22:55.000Z</published>
+    <updated>2016-04-29T20:22:55.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
