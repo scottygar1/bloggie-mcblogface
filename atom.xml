@@ -5,7 +5,7 @@
   <link href="/urban-giggle/atom.xml" rel="self"/>
   
   <link href="https://scottygar.github.io/urban-giggle/"/>
-  <updated>2016-06-21T15:36:50.000Z</updated>
+  <updated>2016-07-11T14:32:58.000Z</updated>
   <id>https://scottygar.github.io/urban-giggle/</id>
   
   <author>
@@ -14,6 +14,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#geekweek</title>
+    <link href="https://scottygar.github.io/urban-giggle/2016/07/11/geekweek/"/>
+    <id>https://scottygar.github.io/urban-giggle/2016/07/11/geekweek/</id>
+    <published>2016-07-11T14:22:00.000Z</published>
+    <updated>2016-07-11T14:32:58.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Douglas has returned!&lt;br&gt;Not that there was much issue whilst he was off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GI successful deployment.&lt;/li&gt;
+&lt;li&gt;Loans had one issue, which I found in the logs and pointed them in the right direction (not me!)&lt;/li&gt;
+&lt;li&gt;PCA we don’t talk about, as they don’t know what they want. Twice.&lt;/li&gt;
+&lt;li&gt;SSCA is an absolute monster, but I’m getting there. Slowly.&lt;/li&gt;
+&lt;li&gt;Hackathon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All in all, a very successful couple of weeks. I have started creating the all important network that, until now, I had been shielded from. People have been coming to me with questions and I’ve been finding that I can answer them. Which I didn’t necessarily expect.&lt;/p&gt;
+&lt;p&gt;And then the two weeks were capped off with the Hackathon. A great trip for Me, John, Mitesh, Megan and Jacob. First Hackathon, first podium finish. The idea of a garbage saver went down a treat, hooked into that all important loyalty system. Great feedback from the CTO, and I’m now intrigued to see if they take it on and make it happen.&lt;br&gt;Might pop the champagne cork winnings later..&lt;/p&gt;
+&lt;p&gt;Learnings: I need to have more confidence in myself. The two times I asked for help, I got a terrible answer that I didn’t question. &lt;strong&gt;Must. Question. More.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oh, yeh.. and Pokemon go. It will ruin my life.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Douglas has returned!&lt;br&gt;Not that there was much issue whilst he was off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GI successful deployment.&lt;/li&gt;
+&lt;li&gt;Loans had one i
+    
+    </summary>
+    
+      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+    
+    
+      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+    
+      <category term="Hackathon" scheme="https://scottygar.github.io/urban-giggle/tags/Hackathon/"/>
+    
+      <category term="Grad" scheme="https://scottygar.github.io/urban-giggle/tags/Grad/"/>
+    
+      <category term="Group" scheme="https://scottygar.github.io/urban-giggle/tags/Group/"/>
+    
+      <category term="Plc" scheme="https://scottygar.github.io/urban-giggle/tags/Plc/"/>
+    
+      <category term="Achievement" scheme="https://scottygar.github.io/urban-giggle/tags/Achievement/"/>
+    
+  </entry>
   
   <entry>
     <title>#longestweek</title>
