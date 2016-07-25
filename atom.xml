@@ -5,7 +5,7 @@
   <link href="/urban-giggle/atom.xml" rel="self"/>
   
   <link href="https://scottygar.github.io/urban-giggle/"/>
-  <updated>2016-07-11T14:32:58.000Z</updated>
+  <updated>2016-07-25T21:19:41.000Z</updated>
   <id>https://scottygar.github.io/urban-giggle/</id>
   
   <author>
@@ -14,6 +14,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#valued</title>
+    <link href="https://scottygar.github.io/urban-giggle/2016/07/25/valued/"/>
+    <id>https://scottygar.github.io/urban-giggle/2016/07/25/valued/</id>
+    <published>2016-07-25T20:37:00.000Z</published>
+    <updated>2016-07-25T21:19:41.000Z</updated>
+    
+    <content type="html">&lt;p&gt;It’s been a long, slow couple of weeks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Credit Limit is essentially finished.&lt;/li&gt;
+&lt;li&gt;First solo standup.&lt;/li&gt;
+&lt;li&gt;Values award nomination.&lt;/li&gt;
+&lt;li&gt;C2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Credit Limit has been less of a challenge than I thought it would be (so far). I think I’ve learned more than I give myself credit for over the last 10 months.&lt;/p&gt;
+&lt;p&gt;It’s not really an achievement, but I held my first mobile standup this week. It’s interesting to see that JJ is happy to give me that role before others who have been in the team longer.&lt;/p&gt;
+&lt;p&gt;DT arrived at my desk today and said that he’s putting me forward for a values award, which is awesome. Turns out that putting that much effort into getting to the hackathon was not only worth it, but seen from a distance as well.&lt;/p&gt;
+&lt;p&gt;C2020 looks interesting. Last week was dipping my toes in the water and this week should see us start to get involved in the detail. It could be a huge project with a lot of work, or it could be a huge problem witha lot of work. Dependent on where the business decides to take it and the key architecture that’s implemented.&lt;/p&gt;
+&lt;p&gt;It’s going to be an interesting journey either way.&lt;/p&gt;
+&lt;p&gt;Also.. Pokemon go is ruining my life. But I love it.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;It’s been a long, slow couple of weeks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Credit Limit is essentially finished.&lt;/li&gt;
+&lt;li&gt;First solo standup.&lt;/li&gt;
+&lt;li&gt;Values a
+    
+    </summary>
+    
+      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+    
+    
+      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+    
+      <category term="Hackathon" scheme="https://scottygar.github.io/urban-giggle/tags/Hackathon/"/>
+    
+      <category term="Derek" scheme="https://scottygar.github.io/urban-giggle/tags/Derek/"/>
+    
+      <category term="Values" scheme="https://scottygar.github.io/urban-giggle/tags/Values/"/>
+    
+      <category term="Award" scheme="https://scottygar.github.io/urban-giggle/tags/Award/"/>
+    
+  </entry>
   
   <entry>
     <title>#geekweek</title>
@@ -98,13 +145,13 @@
       <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
     
     
-      <category term="Factory" scheme="https://scottygar.github.io/urban-giggle/tags/Factory/"/>
+      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
     
       <category term="Environment" scheme="https://scottygar.github.io/urban-giggle/tags/Environment/"/>
     
-      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
-    
       <category term="Config" scheme="https://scottygar.github.io/urban-giggle/tags/Config/"/>
+    
+      <category term="Factory" scheme="https://scottygar.github.io/urban-giggle/tags/Factory/"/>
     
       <category term="Jenkins" scheme="https://scottygar.github.io/urban-giggle/tags/Jenkins/"/>
     
@@ -148,13 +195,13 @@
       <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
     
     
-      <category term="Factory" scheme="https://scottygar.github.io/urban-giggle/tags/Factory/"/>
+      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
     
       <category term="Environment" scheme="https://scottygar.github.io/urban-giggle/tags/Environment/"/>
     
-      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
-    
       <category term="Config" scheme="https://scottygar.github.io/urban-giggle/tags/Config/"/>
+    
+      <category term="Factory" scheme="https://scottygar.github.io/urban-giggle/tags/Factory/"/>
     
   </entry>
   
