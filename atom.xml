@@ -5,7 +5,7 @@
   <link href="/urban-giggle/atom.xml" rel="self"/>
   
   <link href="https://scottygar.github.io/urban-giggle/"/>
-  <updated>2016-08-25T19:43:21.000Z</updated>
+  <updated>2016-10-03T10:12:10.000Z</updated>
   <id>https://scottygar.github.io/urban-giggle/</id>
   
   <author>
@@ -14,6 +14,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#mdev</title>
+    <link href="https://scottygar.github.io/urban-giggle/2016/10/03/mdev/"/>
+    <id>https://scottygar.github.io/urban-giggle/2016/10/03/mdev/</id>
+    <published>2016-10-03T09:41:00.000Z</published>
+    <updated>2016-10-03T10:12:10.000Z</updated>
+    
+    <content type="html">&lt;p&gt;2020 KTB is complete. It’s been a long month.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Holiday passed far too quick.&lt;/li&gt;
+&lt;li&gt;All Tibco 2020 work promoted to MDev &amp;amp; working.&lt;/li&gt;
+&lt;li&gt;SM VB dev completed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’s been a busy month, full of teamwork from many different areas. 2020 has been completed, with a few hitches along the way - but we’re in and working. It’s been an experience with many ups and downs - from starting off with little knowledge of anything that’s going on and finding it hard to get any information, to seeing that it’s a project with several really promising ideas - and knowing how all the parts fit together.&lt;/p&gt;
+&lt;p&gt;It’s quite compelling seeing so many different areas in a standup together and talking/working as a team.&lt;/p&gt;
+&lt;p&gt;Speaking of working as a team, I feel like the Tibco team are working better together - It feels less broken. SL is starting to come out of her shell, and switching projects has given us a chance to appreciate what the others do. DM did some cool stuff with 2020 while I was away and it was nice to be able to come back and understand/add into what was done.&lt;/p&gt;
+&lt;p&gt;As a side note/project, I’ve completed a relatively small, but important piece of VBA for the SM team. It’ll reduce workload and a real pain point for managers completing the forms that are required. Hopefully.&lt;/p&gt;
+&lt;p&gt;Risk have also asked me to pop in and talk to them about agile. Something I need to prepare for, as I’m by no means an expert. It’ll be a good stretch for me to try to get them to take some of the stuff we do on-board. Standups as a first measure.&lt;/p&gt;
+&lt;p&gt;Learnings: Teamwork &amp;amp; non-silos across the business &lt;strong&gt;are&lt;/strong&gt; possible. It might just take a while.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2020 KTB is complete. It’s been a long month.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Holiday passed far too quick.&lt;/li&gt;
+&lt;li&gt;All Tibco 2020 work promoted to MDev &amp;a
+    
+    </summary>
+    
+      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+    
+    
+      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+    
+      <category term="Project" scheme="https://scottygar.github.io/urban-giggle/tags/Project/"/>
+    
+      <category term="2020" scheme="https://scottygar.github.io/urban-giggle/tags/2020/"/>
+    
+      <category term="Service" scheme="https://scottygar.github.io/urban-giggle/tags/Service/"/>
+    
+      <category term="Collaboration" scheme="https://scottygar.github.io/urban-giggle/tags/Collaboration/"/>
+    
+      <category term="Team" scheme="https://scottygar.github.io/urban-giggle/tags/Team/"/>
+    
+  </entry>
   
   <entry>
     <title>#2020month</title>
