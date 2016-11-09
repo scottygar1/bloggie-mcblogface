@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Portfolio</title>
   
-  <link href="/urban-giggle/atom.xml" rel="self"/>
+  <link href="/bloggie-mcblogface/atom.xml" rel="self"/>
   
-  <link href="https://scottygar.github.io/urban-giggle/"/>
+  <link href="https://scottygar.co.uk/bloggie-mcblogface/"/>
   <updated>2016-10-03T10:12:10.000Z</updated>
-  <id>https://scottygar.github.io/urban-giggle/</id>
+  <id>https://scottygar.co.uk/bloggie-mcblogface/</id>
   
   <author>
     <name>Scott Gardiner</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>#mdev</title>
-    <link href="https://scottygar.github.io/urban-giggle/2016/10/03/mdev/"/>
-    <id>https://scottygar.github.io/urban-giggle/2016/10/03/mdev/</id>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/10/03/mdev/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/10/03/mdev/</id>
     <published>2016-10-03T09:41:00.000Z</published>
     <updated>2016-10-03T10:12:10.000Z</updated>
     
@@ -45,27 +45,27 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
     
-      <category term="Project" scheme="https://scottygar.github.io/urban-giggle/tags/Project/"/>
+      <category term="Project" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Project/"/>
     
-      <category term="2020" scheme="https://scottygar.github.io/urban-giggle/tags/2020/"/>
+      <category term="2020" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
     
-      <category term="Service" scheme="https://scottygar.github.io/urban-giggle/tags/Service/"/>
+      <category term="Service" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Service/"/>
     
-      <category term="Collaboration" scheme="https://scottygar.github.io/urban-giggle/tags/Collaboration/"/>
+      <category term="Collaboration" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Collaboration/"/>
     
-      <category term="Team" scheme="https://scottygar.github.io/urban-giggle/tags/Team/"/>
+      <category term="Team" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Team/"/>
     
   </entry>
   
   <entry>
     <title>#2020month</title>
-    <link href="https://scottygar.github.io/urban-giggle/2016/08/25/2020month/"/>
-    <id>https://scottygar.github.io/urban-giggle/2016/08/25/2020month/</id>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/08/25/2020month/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/08/25/2020month/</id>
     <published>2016-08-25T19:23:00.000Z</published>
     <updated>2016-10-03T10:22:40.000Z</updated>
     
@@ -96,25 +96,25 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
     
-      <category term="Project" scheme="https://scottygar.github.io/urban-giggle/tags/Project/"/>
+      <category term="Project" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Project/"/>
     
-      <category term="2020" scheme="https://scottygar.github.io/urban-giggle/tags/2020/"/>
+      <category term="2020" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
     
-      <category term="Service" scheme="https://scottygar.github.io/urban-giggle/tags/Service/"/>
+      <category term="Service" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Service/"/>
     
-      <category term="Collaboration" scheme="https://scottygar.github.io/urban-giggle/tags/Collaboration/"/>
+      <category term="Collaboration" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Collaboration/"/>
     
   </entry>
   
   <entry>
     <title>#valued</title>
-    <link href="https://scottygar.github.io/urban-giggle/2016/07/25/valued/"/>
-    <id>https://scottygar.github.io/urban-giggle/2016/07/25/valued/</id>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/07/25/valued/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/07/25/valued/</id>
     <published>2016-07-25T20:37:00.000Z</published>
     <updated>2016-08-25T19:45:10.000Z</updated>
     
@@ -143,25 +143,25 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
     
-      <category term="Hackathon" scheme="https://scottygar.github.io/urban-giggle/tags/Hackathon/"/>
+      <category term="Hackathon" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Hackathon/"/>
     
-      <category term="Derek" scheme="https://scottygar.github.io/urban-giggle/tags/Derek/"/>
+      <category term="Derek" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Derek/"/>
     
-      <category term="Values" scheme="https://scottygar.github.io/urban-giggle/tags/Values/"/>
+      <category term="Values" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Values/"/>
     
-      <category term="Award" scheme="https://scottygar.github.io/urban-giggle/tags/Award/"/>
+      <category term="Award" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Award/"/>
     
   </entry>
   
   <entry>
     <title>#geekweek</title>
-    <link href="https://scottygar.github.io/urban-giggle/2016/07/11/geekweek/"/>
-    <id>https://scottygar.github.io/urban-giggle/2016/07/11/geekweek/</id>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/07/11/geekweek/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/07/11/geekweek/</id>
     <published>2016-07-11T14:22:00.000Z</published>
     <updated>2016-07-11T14:32:58.000Z</updated>
     
@@ -188,27 +188,27 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
     
-      <category term="Hackathon" scheme="https://scottygar.github.io/urban-giggle/tags/Hackathon/"/>
+      <category term="Hackathon" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Hackathon/"/>
     
-      <category term="Grad" scheme="https://scottygar.github.io/urban-giggle/tags/Grad/"/>
+      <category term="Grad" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Grad/"/>
     
-      <category term="Group" scheme="https://scottygar.github.io/urban-giggle/tags/Group/"/>
+      <category term="Group" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Group/"/>
     
-      <category term="Plc" scheme="https://scottygar.github.io/urban-giggle/tags/Plc/"/>
+      <category term="Plc" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Plc/"/>
     
-      <category term="Achievement" scheme="https://scottygar.github.io/urban-giggle/tags/Achievement/"/>
+      <category term="Achievement" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Achievement/"/>
     
   </entry>
   
   <entry>
     <title>#longestweek</title>
-    <link href="https://scottygar.github.io/urban-giggle/2016/06/17/longestweek/"/>
-    <id>https://scottygar.github.io/urban-giggle/2016/06/17/longestweek/</id>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/06/17/longestweek/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/06/17/longestweek/</id>
     <published>2016-06-17T15:20:00.000Z</published>
     <updated>2016-06-21T15:36:50.000Z</updated>
     
@@ -238,29 +238,29 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
     
     
-      <category term="Factory" scheme="https://scottygar.github.io/urban-giggle/tags/Factory/"/>
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
     
-      <category term="Environment" scheme="https://scottygar.github.io/urban-giggle/tags/Environment/"/>
+      <category term="Factory" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Factory/"/>
     
-      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+      <category term="Environment" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Environment/"/>
     
-      <category term="Config" scheme="https://scottygar.github.io/urban-giggle/tags/Config/"/>
+      <category term="Config" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Config/"/>
     
-      <category term="Jenkins" scheme="https://scottygar.github.io/urban-giggle/tags/Jenkins/"/>
+      <category term="Jenkins" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Jenkins/"/>
     
-      <category term="Build" scheme="https://scottygar.github.io/urban-giggle/tags/Build/"/>
+      <category term="Build" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Build/"/>
     
-      <category term="Script" scheme="https://scottygar.github.io/urban-giggle/tags/Script/"/>
+      <category term="Script" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Script/"/>
     
   </entry>
   
   <entry>
     <title>#factory</title>
-    <link href="https://scottygar.github.io/urban-giggle/2016/06/13/factory/"/>
-    <id>https://scottygar.github.io/urban-giggle/2016/06/13/factory/</id>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/06/13/factory/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/06/13/factory/</id>
     <published>2016-06-13T15:49:00.000Z</published>
     <updated>2016-06-13T19:11:38.000Z</updated>
     
@@ -288,23 +288,23 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
     
     
-      <category term="Factory" scheme="https://scottygar.github.io/urban-giggle/tags/Factory/"/>
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
     
-      <category term="Environment" scheme="https://scottygar.github.io/urban-giggle/tags/Environment/"/>
+      <category term="Factory" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Factory/"/>
     
-      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+      <category term="Environment" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Environment/"/>
     
-      <category term="Config" scheme="https://scottygar.github.io/urban-giggle/tags/Config/"/>
+      <category term="Config" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Config/"/>
     
   </entry>
   
   <entry>
     <title>#holiday</title>
-    <link href="https://scottygar.github.io/urban-giggle/2016/05/18/holiday/"/>
-    <id>https://scottygar.github.io/urban-giggle/2016/05/18/holiday/</id>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/05/18/holiday/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/05/18/holiday/</id>
     <published>2016-05-18T09:53:00.000Z</published>
     <updated>2016-05-18T10:04:00.000Z</updated>
     
@@ -330,27 +330,27 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
     
     
-      <category term="JSON" scheme="https://scottygar.github.io/urban-giggle/tags/JSON/"/>
+      <category term="JSON" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/JSON/"/>
     
-      <category term="REST" scheme="https://scottygar.github.io/urban-giggle/tags/REST/"/>
+      <category term="REST" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/REST/"/>
     
-      <category term="IA" scheme="https://scottygar.github.io/urban-giggle/tags/IA/"/>
+      <category term="IA" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/IA/"/>
     
-      <category term="Holiday" scheme="https://scottygar.github.io/urban-giggle/tags/Holiday/"/>
+      <category term="Holiday" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Holiday/"/>
     
-      <category term="Learning" scheme="https://scottygar.github.io/urban-giggle/tags/Learning/"/>
+      <category term="Learning" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Learning/"/>
     
-      <category term="PoC" scheme="https://scottygar.github.io/urban-giggle/tags/PoC/"/>
+      <category term="PoC" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/PoC/"/>
     
   </entry>
   
   <entry>
     <title>#no</title>
-    <link href="https://scottygar.github.io/urban-giggle/2016/05/11/no/"/>
-    <id>https://scottygar.github.io/urban-giggle/2016/05/11/no/</id>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/05/11/no/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/05/11/no/</id>
     <published>2016-05-11T15:41:00.000Z</published>
     <updated>2016-05-11T15:59:19.000Z</updated>
     
@@ -383,25 +383,25 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
     
-      <category term="Java" scheme="https://scottygar.github.io/urban-giggle/tags/Java/"/>
+      <category term="Java" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Java/"/>
     
-      <category term="PersonalDevelopment" scheme="https://scottygar.github.io/urban-giggle/tags/PersonalDevelopment/"/>
+      <category term="PersonalDevelopment" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/PersonalDevelopment/"/>
     
-      <category term="VBA" scheme="https://scottygar.github.io/urban-giggle/tags/VBA/"/>
+      <category term="VBA" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/VBA/"/>
     
-      <category term="Training" scheme="https://scottygar.github.io/urban-giggle/tags/Training/"/>
+      <category term="Training" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Training/"/>
     
   </entry>
   
   <entry>
     <title>#recap</title>
-    <link href="https://scottygar.github.io/urban-giggle/2016/05/02/recap/"/>
-    <id>https://scottygar.github.io/urban-giggle/2016/05/02/recap/</id>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/05/02/recap/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/05/02/recap/</id>
     <published>2016-05-02T17:36:00.000Z</published>
     <updated>2016-05-03T09:37:56.000Z</updated>
     
@@ -436,25 +436,25 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.github.io/urban-giggle/categories/Work/"/>
+      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.github.io/urban-giggle/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
     
-      <category term="FirstPost" scheme="https://scottygar.github.io/urban-giggle/tags/FirstPost/"/>
+      <category term="FirstPost" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/FirstPost/"/>
     
-      <category term="BAU" scheme="https://scottygar.github.io/urban-giggle/tags/BAU/"/>
+      <category term="BAU" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/BAU/"/>
     
-      <category term="RCSA" scheme="https://scottygar.github.io/urban-giggle/tags/RCSA/"/>
+      <category term="RCSA" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/RCSA/"/>
     
-      <category term="YBOY" scheme="https://scottygar.github.io/urban-giggle/tags/YBOY/"/>
+      <category term="YBOY" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/YBOY/"/>
     
   </entry>
   
   <entry>
     <title>#blogstart</title>
-    <link href="https://scottygar.github.io/urban-giggle/2016/04/29/blogstart/"/>
-    <id>https://scottygar.github.io/urban-giggle/2016/04/29/blogstart/</id>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/04/29/blogstart/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/04/29/blogstart/</id>
     <published>2016-04-29T20:22:55.000Z</published>
     <updated>2016-04-29T20:22:55.000Z</updated>
     
