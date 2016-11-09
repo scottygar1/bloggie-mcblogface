@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Portfolio</title>
-  
+  <title>Bloggie-McBlogface</title>
+  <subtitle>A portfolio of sorts</subtitle>
   <link href="/bloggie-mcblogface/atom.xml" rel="self"/>
   
   <link href="https://scottygar.co.uk/bloggie-mcblogface/"/>
