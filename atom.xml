@@ -5,7 +5,7 @@
   <link href="/bloggie-mcblogface/atom.xml" rel="self"/>
   
   <link href="https://scottygar.co.uk/bloggie-mcblogface/"/>
-  <updated>2016-10-03T10:12:10.000Z</updated>
+  <updated>2016-11-10T19:33:12.000Z</updated>
   <id>https://scottygar.co.uk/bloggie-mcblogface/</id>
   
   <author>
@@ -14,6 +14,49 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#minus2</title>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/11/10/minus2/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/11/10/minus2/</id>
+    <published>2016-11-10T19:13:00.000Z</published>
+    <updated>2016-11-10T19:33:12.000Z</updated>
+    
+    <content type="html">&lt;p&gt;If the last month was slow, this one has flown by.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sprint -2 and Sprint -1 complete.&lt;/li&gt;
+&lt;li&gt;Framework Upgrades in place for 2020 kicking off.&lt;/li&gt;
+&lt;li&gt;Tibco and Cucumber do not mix.&lt;/li&gt;
+&lt;li&gt;Debauchery, lies and hidden truths.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So scrap last month’s update. It was full of positivity and seeing the best in all things people related. That’s gone drastically downhill since then, as I have realised that things getting discussed at standup aren’t actually the full truth. Nobody has control of the overall endgame. It’s a power struggle with lots of people competing against each other in full blown silos. &lt;/p&gt;
+&lt;p&gt;Bigger silos than I’ve ever seen before.&lt;/p&gt;
+&lt;p&gt;On the plus side, it’s meant I’ve had plenty of time to focus on the Tibco stack, my own knowledge improving daily, and trying to integrate other functionality and systems with the current stack we have. Cucumber looks like a delightful thing, but it’ll mean SOAP to JSON conversions and manually building the payloads. &lt;/p&gt;
+&lt;p&gt;Nobody wants that. It’ll be a pain in the arse to keep up to date.&lt;/p&gt;
+&lt;p&gt;Learnings: Though it may be possible, teamwork and breaking down silos isn’t easy. &lt;strong&gt;People do not like change.&lt;/strong&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;If the last month was slow, this one has flown by.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sprint -2 and Sprint -1 complete.&lt;/li&gt;
+&lt;li&gt;Framework Upgrades in place fo
+    
+    </summary>
+    
+    
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+    
+      <category term="Project" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Project/"/>
+    
+      <category term="2020" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
+    
+      <category term="Service" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Service/"/>
+    
+      <category term="Silo" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Silo/"/>
+    
+  </entry>
   
   <entry>
     <title>#mdev</title>
