@@ -5,7 +5,7 @@
   <link href="/bloggie-mcblogface/atom.xml" rel="self"/>
   
   <link href="https://scottygar.co.uk/bloggie-mcblogface/"/>
-  <updated>2016-11-10T19:50:39.000Z</updated>
+  <updated>2017-01-09T20:57:05.000Z</updated>
   <id>https://scottygar.co.uk/bloggie-mcblogface/</id>
   
   <author>
@@ -14,6 +14,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#christmas</title>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2017/01/09/christmas/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2017/01/09/christmas/</id>
+    <published>2017-01-09T20:44:00.000Z</published>
+    <updated>2017-01-09T20:57:05.000Z</updated>
+    
+    <content type="html">&lt;p&gt;It’s been 2 months. It’s been a long 2 months.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PQQ Service dev complete&lt;/li&gt;
+&lt;li&gt;2020 stalled&lt;/li&gt;
+&lt;li&gt;Jenkinsfile is a pain in the arse&lt;/li&gt;
+&lt;li&gt;Gradle is worse&lt;/li&gt;
+&lt;li&gt;New nexus doesn’t work as planned&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A long 2 months, but somewhat productive. I’ve been stretched a bit by getting involved with the PQQ service. WS Security proved to be a nightmare beyond belief, which was fixed by DM reverting to one of my earlier builds - Though I was informed this wasn’t good enough at the time..&lt;/p&gt;
+&lt;p&gt;2020 is still messy. Decisions are.. lacking or being overruled by a greater being, somewhere in the ether. I’ve decided to press on with my micro-services idea, though I think it’ll be shelved by DP. I don’t think new things make him tick.&lt;/p&gt;
+&lt;p&gt;All the while, I’ve been playing with Jenkins and trying to get the new version to play nice with Tibco. It hasn’t, yet.&lt;br&gt;So I thought I’d try pulling the build into gradle, rather than maven.&lt;/p&gt;
+&lt;p&gt;It still hasn’t.&lt;/p&gt;
+&lt;p&gt;New nexus upgrades have also taken place at the same time - which will be a great task of updating all the pointers to the new nexus at some stage. There are many.&lt;/p&gt;
+&lt;p&gt;Learnings: I have a better idea about how things work than I thought I did. However, the way it is done is messy and even messier to unpick. &lt;strong&gt;Don’t run old builds on a stable environment.&lt;/strong&gt; It overwrites stuff.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;It’s been 2 months. It’s been a long 2 months.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PQQ Service dev complete&lt;/li&gt;
+&lt;li&gt;2020 stalled&lt;/li&gt;
+&lt;li&gt;Jenkinsfile is a pain
+    
+    </summary>
+    
+    
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+    
+      <category term="2020" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
+    
+      <category term="Jenkins" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Jenkins/"/>
+    
+      <category term="PQQ" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/PQQ/"/>
+    
+      <category term="Maven" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Maven/"/>
+    
+      <category term="Gradle" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Gradle/"/>
+    
+      <category term="Nexus" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Nexus/"/>
+    
+      <category term="WSSecurity" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/WSSecurity/"/>
+    
+  </entry>
   
   <entry>
     <title>#minus2</title>
