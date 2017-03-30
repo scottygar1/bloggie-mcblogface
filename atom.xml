@@ -5,7 +5,7 @@
   <link href="/bloggie-mcblogface/atom.xml" rel="self"/>
   
   <link href="https://scottygar.co.uk/bloggie-mcblogface/"/>
-  <updated>2017-03-30T13:20:26.000Z</updated>
+  <updated>2017-03-30T13:22:15.000Z</updated>
   <id>https://scottygar.co.uk/bloggie-mcblogface/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://scottygar.co.uk/bloggie-mcblogface/2017/03/30/ktbpqq1facsm/"/>
     <id>https://scottygar.co.uk/bloggie-mcblogface/2017/03/30/ktbpqq1facsm/</id>
     <published>2017-03-30T12:56:00.000Z</published>
-    <updated>2017-03-30T13:20:26.000Z</updated>
+    <updated>2017-03-30T13:22:15.000Z</updated>
     
     <content type="html">&lt;p&gt;3 months. Oops. Must get better at keeping this up to date.&lt;/p&gt;
 &lt;p&gt;So, a brief overview, then:&lt;/p&gt;
@@ -55,6 +55,8 @@
     
       <category term="Project" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Project/"/>
     
+      <category term="2020" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
+    
       <category term="PQQ" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/PQQ/"/>
     
       <category term="1FA" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/1FA/"/>
@@ -62,8 +64,6 @@
       <category term="CSM" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/CSM/"/>
     
       <category term="KTB" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/KTB/"/>
-    
-      <category term="'2020'" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
     
   </entry>
   
@@ -158,11 +158,11 @@
     
       <category term="Service" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Service/"/>
     
-      <category term="Java" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Java/"/>
-    
       <category term="Silo" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Silo/"/>
     
       <category term="Cucumber" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Cucumber/"/>
+    
+      <category term="Java" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Java/"/>
     
   </entry>
   
@@ -394,13 +394,13 @@
     
       <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
     
+      <category term="Jenkins" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Jenkins/"/>
+    
       <category term="Factory" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Factory/"/>
     
       <category term="Environment" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Environment/"/>
     
       <category term="Config" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Config/"/>
-    
-      <category term="Jenkins" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Jenkins/"/>
     
       <category term="Build" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Build/"/>
     
