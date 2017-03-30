@@ -5,7 +5,7 @@
   <link href="/bloggie-mcblogface/atom.xml" rel="self"/>
   
   <link href="https://scottygar.co.uk/bloggie-mcblogface/"/>
-  <updated>2017-01-09T20:57:05.000Z</updated>
+  <updated>2017-03-30T13:20:26.000Z</updated>
   <id>https://scottygar.co.uk/bloggie-mcblogface/</id>
   
   <author>
@@ -14,6 +14,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#ktbpqq1facsm</title>
+    <link href="https://scottygar.co.uk/bloggie-mcblogface/2017/03/30/ktbpqq1facsm/"/>
+    <id>https://scottygar.co.uk/bloggie-mcblogface/2017/03/30/ktbpqq1facsm/</id>
+    <published>2017-03-30T12:56:00.000Z</published>
+    <updated>2017-03-30T13:20:26.000Z</updated>
+    
+    <content type="html">&lt;p&gt;3 months. Oops. Must get better at keeping this up to date.&lt;/p&gt;
+&lt;p&gt;So, a brief overview, then:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;KTB is still in the middle of nowhere. Nobody’s quite sure why or how it’s supposed to work, but we plough on. With nothing&lt;/li&gt;
+&lt;li&gt;PQQ is finally getting tested. Seems to be reasonably stable with 1 small issue&lt;/li&gt;
+&lt;li&gt;1FA has been and gone. What a whirlwind that was - with some huge challenges&lt;/li&gt;
+&lt;li&gt;Release candidate: Me&lt;/li&gt;
+&lt;li&gt;I’m now a certified scrum master&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stretched, pulled, hired and fired have been the themes of the last three months.&lt;/p&gt;
+&lt;p&gt;Every project is priority. We all know how that ends. KTB are still extremely slow with their analysis, which means they’re still not ready for the things they think they want. New engines and frameworks are all in place and ready to go, they just need to be filled with content - meaning decisions need to be made. Experian came and went, as they realised that another potential option was blown out of the water by not know what we wanted and how we wanted it. Still, some great exposure to other areas of the business.&lt;/p&gt;
+&lt;p&gt;PQQ seems relatively smooth so far, given the speed they wanted everything and the huge complexities of the connections. Looks like a bug exists in the error handling, but it seems to come from the shared libs - so it could be a nightmare. Work to do.&lt;/p&gt;
+&lt;p&gt;1FA has been the most challenging project I’ve worked on so far. 3 Tibco Devs committing to the same branches is not a fun thing. The stakeholder management opportunities have been extreme. Picking up the work of another who was - well, poor at his job and communicating with others - has made me realise how valuable an asset I am. As recognised by KB, who made her feedback clear enough.&lt;/p&gt;
+&lt;p&gt;I have also picked up the release process through SIT. Which is more of a challenge than it seems. Teaching the new guys my Git learnings has also shown me that I have picked up a lot of stuff in 18 months. Going from not having used git to being utilised for my knowledge of git is a great example of me doing what I do best #knowledgesponge.&lt;/p&gt;
+&lt;p&gt;This week, I also qualified as a Scrum Master. And I can now genuinely judge how bad we are at Agile methodologies and practices.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seriously. Bad.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now to move towards talks of a proper job - challenged by SB as “he’s doing all the legwork for me”.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;3 months. Oops. Must get better at keeping this up to date.&lt;/p&gt;
+&lt;p&gt;So, a brief overview, then:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;KTB is still in the middle of
+    
+    </summary>
+    
+    
+      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+    
+      <category term="Project" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Project/"/>
+    
+      <category term="PQQ" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/PQQ/"/>
+    
+      <category term="1FA" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/1FA/"/>
+    
+      <category term="CSM" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/CSM/"/>
+    
+      <category term="KTB" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/KTB/"/>
+    
+      <category term="'2020'" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
+    
+  </entry>
   
   <entry>
     <title>#christmas</title>
@@ -106,11 +158,11 @@
     
       <category term="Service" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Service/"/>
     
+      <category term="Java" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Java/"/>
+    
       <category term="Silo" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Silo/"/>
     
       <category term="Cucumber" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Cucumber/"/>
-    
-      <category term="Java" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Java/"/>
     
   </entry>
   
