@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Bloggie-McBlogface</title>
-  <subtitle>A portfolio of sorts</subtitle>
+  <subtitle>A blogfolio of sorts</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.scottygar.co.uk/"/>
@@ -158,11 +158,11 @@
     
       <category term="Service" scheme="https://blog.scottygar.co.uk/tags/Service/"/>
     
-      <category term="Java" scheme="https://blog.scottygar.co.uk/tags/Java/"/>
-    
       <category term="Silo" scheme="https://blog.scottygar.co.uk/tags/Silo/"/>
     
       <category term="Cucumber" scheme="https://blog.scottygar.co.uk/tags/Cucumber/"/>
+    
+      <category term="Java" scheme="https://blog.scottygar.co.uk/tags/Java/"/>
     
   </entry>
   
