@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Bloggie-McBlogface</title>
   <subtitle>A portfolio of sorts</subtitle>
-  <link href="/bloggie-mcblogface/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://scottygar.co.uk/bloggie-mcblogface/"/>
+  <link href="https://blog.scottygar.co.uk/"/>
   <updated>2017-03-30T13:22:15.000Z</updated>
-  <id>https://scottygar.co.uk/bloggie-mcblogface/</id>
+  <id>https://blog.scottygar.co.uk/</id>
   
   <author>
     <name>Scott Gardiner</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>#ktbpqq1facsm</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2017/03/30/ktbpqq1facsm/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2017/03/30/ktbpqq1facsm/</id>
+    <link href="https://blog.scottygar.co.uk/2017/03/30/ktbpqq1facsm/"/>
+    <id>https://blog.scottygar.co.uk/2017/03/30/ktbpqq1facsm/</id>
     <published>2017-03-30T12:56:00.000Z</published>
     <updated>2017-03-30T13:22:15.000Z</updated>
     
@@ -51,26 +51,26 @@
     </summary>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="2020" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
+      <category term="2020" scheme="https://blog.scottygar.co.uk/tags/2020/"/>
     
-      <category term="PQQ" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/PQQ/"/>
+      <category term="PQQ" scheme="https://blog.scottygar.co.uk/tags/PQQ/"/>
     
-      <category term="Project" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Project/"/>
+      <category term="Project" scheme="https://blog.scottygar.co.uk/tags/Project/"/>
     
-      <category term="1FA" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/1FA/"/>
+      <category term="1FA" scheme="https://blog.scottygar.co.uk/tags/1FA/"/>
     
-      <category term="CSM" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/CSM/"/>
+      <category term="CSM" scheme="https://blog.scottygar.co.uk/tags/CSM/"/>
     
-      <category term="KTB" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/KTB/"/>
+      <category term="KTB" scheme="https://blog.scottygar.co.uk/tags/KTB/"/>
     
   </entry>
   
   <entry>
     <title>#christmas</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2017/01/09/christmas/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2017/01/09/christmas/</id>
+    <link href="https://blog.scottygar.co.uk/2017/01/09/christmas/"/>
+    <id>https://blog.scottygar.co.uk/2017/01/09/christmas/</id>
     <published>2017-01-09T20:44:00.000Z</published>
     <updated>2017-01-09T20:57:05.000Z</updated>
     
@@ -101,28 +101,28 @@
     </summary>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="2020" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
+      <category term="2020" scheme="https://blog.scottygar.co.uk/tags/2020/"/>
     
-      <category term="Jenkins" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Jenkins/"/>
+      <category term="Jenkins" scheme="https://blog.scottygar.co.uk/tags/Jenkins/"/>
     
-      <category term="PQQ" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/PQQ/"/>
+      <category term="PQQ" scheme="https://blog.scottygar.co.uk/tags/PQQ/"/>
     
-      <category term="Maven" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Maven/"/>
+      <category term="Maven" scheme="https://blog.scottygar.co.uk/tags/Maven/"/>
     
-      <category term="Gradle" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Gradle/"/>
+      <category term="Gradle" scheme="https://blog.scottygar.co.uk/tags/Gradle/"/>
     
-      <category term="Nexus" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Nexus/"/>
+      <category term="Nexus" scheme="https://blog.scottygar.co.uk/tags/Nexus/"/>
     
-      <category term="WSSecurity" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/WSSecurity/"/>
+      <category term="WSSecurity" scheme="https://blog.scottygar.co.uk/tags/WSSecurity/"/>
     
   </entry>
   
   <entry>
     <title>#minus2</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/11/10/minus2/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/11/10/minus2/</id>
+    <link href="https://blog.scottygar.co.uk/2016/11/10/minus2/"/>
+    <id>https://blog.scottygar.co.uk/2016/11/10/minus2/</id>
     <published>2016-11-10T19:13:00.000Z</published>
     <updated>2016-11-10T19:50:39.000Z</updated>
     
@@ -150,26 +150,26 @@
     </summary>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="2020" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
+      <category term="2020" scheme="https://blog.scottygar.co.uk/tags/2020/"/>
     
-      <category term="Project" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Project/"/>
+      <category term="Project" scheme="https://blog.scottygar.co.uk/tags/Project/"/>
     
-      <category term="Service" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Service/"/>
+      <category term="Service" scheme="https://blog.scottygar.co.uk/tags/Service/"/>
     
-      <category term="Java" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Java/"/>
+      <category term="Java" scheme="https://blog.scottygar.co.uk/tags/Java/"/>
     
-      <category term="Silo" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Silo/"/>
+      <category term="Silo" scheme="https://blog.scottygar.co.uk/tags/Silo/"/>
     
-      <category term="Cucumber" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Cucumber/"/>
+      <category term="Cucumber" scheme="https://blog.scottygar.co.uk/tags/Cucumber/"/>
     
   </entry>
   
   <entry>
     <title>#mdev</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/10/03/mdev/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/10/03/mdev/</id>
+    <link href="https://blog.scottygar.co.uk/2016/10/03/mdev/"/>
+    <id>https://blog.scottygar.co.uk/2016/10/03/mdev/</id>
     <published>2016-10-03T09:41:00.000Z</published>
     <updated>2016-10-03T10:12:10.000Z</updated>
     
@@ -196,27 +196,27 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
+      <category term="Work" scheme="https://blog.scottygar.co.uk/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="2020" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
+      <category term="2020" scheme="https://blog.scottygar.co.uk/tags/2020/"/>
     
-      <category term="Project" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Project/"/>
+      <category term="Project" scheme="https://blog.scottygar.co.uk/tags/Project/"/>
     
-      <category term="Service" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Service/"/>
+      <category term="Service" scheme="https://blog.scottygar.co.uk/tags/Service/"/>
     
-      <category term="Collaboration" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Collaboration/"/>
+      <category term="Collaboration" scheme="https://blog.scottygar.co.uk/tags/Collaboration/"/>
     
-      <category term="Team" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Team/"/>
+      <category term="Team" scheme="https://blog.scottygar.co.uk/tags/Team/"/>
     
   </entry>
   
   <entry>
     <title>#2020month</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/08/25/2020month/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/08/25/2020month/</id>
+    <link href="https://blog.scottygar.co.uk/2016/08/25/2020month/"/>
+    <id>https://blog.scottygar.co.uk/2016/08/25/2020month/</id>
     <published>2016-08-25T19:23:00.000Z</published>
     <updated>2016-10-03T10:22:40.000Z</updated>
     
@@ -247,25 +247,25 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
+      <category term="Work" scheme="https://blog.scottygar.co.uk/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="2020" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/2020/"/>
+      <category term="2020" scheme="https://blog.scottygar.co.uk/tags/2020/"/>
     
-      <category term="Project" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Project/"/>
+      <category term="Project" scheme="https://blog.scottygar.co.uk/tags/Project/"/>
     
-      <category term="Service" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Service/"/>
+      <category term="Service" scheme="https://blog.scottygar.co.uk/tags/Service/"/>
     
-      <category term="Collaboration" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Collaboration/"/>
+      <category term="Collaboration" scheme="https://blog.scottygar.co.uk/tags/Collaboration/"/>
     
   </entry>
   
   <entry>
     <title>#valued</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/07/25/valued/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/07/25/valued/</id>
+    <link href="https://blog.scottygar.co.uk/2016/07/25/valued/"/>
+    <id>https://blog.scottygar.co.uk/2016/07/25/valued/</id>
     <published>2016-07-25T20:37:00.000Z</published>
     <updated>2016-08-25T19:45:10.000Z</updated>
     
@@ -294,25 +294,25 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
+      <category term="Work" scheme="https://blog.scottygar.co.uk/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="Hackathon" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Hackathon/"/>
+      <category term="Hackathon" scheme="https://blog.scottygar.co.uk/tags/Hackathon/"/>
     
-      <category term="Derek" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Derek/"/>
+      <category term="Derek" scheme="https://blog.scottygar.co.uk/tags/Derek/"/>
     
-      <category term="Values" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Values/"/>
+      <category term="Values" scheme="https://blog.scottygar.co.uk/tags/Values/"/>
     
-      <category term="Award" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Award/"/>
+      <category term="Award" scheme="https://blog.scottygar.co.uk/tags/Award/"/>
     
   </entry>
   
   <entry>
     <title>#geekweek</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/07/11/geekweek/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/07/11/geekweek/</id>
+    <link href="https://blog.scottygar.co.uk/2016/07/11/geekweek/"/>
+    <id>https://blog.scottygar.co.uk/2016/07/11/geekweek/</id>
     <published>2016-07-11T14:22:00.000Z</published>
     <updated>2016-07-11T14:32:58.000Z</updated>
     
@@ -339,27 +339,27 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
+      <category term="Work" scheme="https://blog.scottygar.co.uk/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="Hackathon" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Hackathon/"/>
+      <category term="Hackathon" scheme="https://blog.scottygar.co.uk/tags/Hackathon/"/>
     
-      <category term="Grad" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Grad/"/>
+      <category term="Grad" scheme="https://blog.scottygar.co.uk/tags/Grad/"/>
     
-      <category term="Group" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Group/"/>
+      <category term="Group" scheme="https://blog.scottygar.co.uk/tags/Group/"/>
     
-      <category term="Plc" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Plc/"/>
+      <category term="Plc" scheme="https://blog.scottygar.co.uk/tags/Plc/"/>
     
-      <category term="Achievement" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Achievement/"/>
+      <category term="Achievement" scheme="https://blog.scottygar.co.uk/tags/Achievement/"/>
     
   </entry>
   
   <entry>
     <title>#longestweek</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/06/17/longestweek/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/06/17/longestweek/</id>
+    <link href="https://blog.scottygar.co.uk/2016/06/17/longestweek/"/>
+    <id>https://blog.scottygar.co.uk/2016/06/17/longestweek/</id>
     <published>2016-06-17T15:20:00.000Z</published>
     <updated>2016-06-21T15:36:50.000Z</updated>
     
@@ -389,29 +389,29 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
+      <category term="Work" scheme="https://blog.scottygar.co.uk/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="Jenkins" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Jenkins/"/>
+      <category term="Jenkins" scheme="https://blog.scottygar.co.uk/tags/Jenkins/"/>
     
-      <category term="Factory" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Factory/"/>
+      <category term="Factory" scheme="https://blog.scottygar.co.uk/tags/Factory/"/>
     
-      <category term="Environment" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Environment/"/>
+      <category term="Environment" scheme="https://blog.scottygar.co.uk/tags/Environment/"/>
     
-      <category term="Config" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Config/"/>
+      <category term="Config" scheme="https://blog.scottygar.co.uk/tags/Config/"/>
     
-      <category term="Build" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Build/"/>
+      <category term="Build" scheme="https://blog.scottygar.co.uk/tags/Build/"/>
     
-      <category term="Script" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Script/"/>
+      <category term="Script" scheme="https://blog.scottygar.co.uk/tags/Script/"/>
     
   </entry>
   
   <entry>
     <title>#factory</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/06/13/factory/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/06/13/factory/</id>
+    <link href="https://blog.scottygar.co.uk/2016/06/13/factory/"/>
+    <id>https://blog.scottygar.co.uk/2016/06/13/factory/</id>
     <published>2016-06-13T15:49:00.000Z</published>
     <updated>2016-06-13T19:11:38.000Z</updated>
     
@@ -439,23 +439,23 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
+      <category term="Work" scheme="https://blog.scottygar.co.uk/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="Factory" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Factory/"/>
+      <category term="Factory" scheme="https://blog.scottygar.co.uk/tags/Factory/"/>
     
-      <category term="Environment" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Environment/"/>
+      <category term="Environment" scheme="https://blog.scottygar.co.uk/tags/Environment/"/>
     
-      <category term="Config" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Config/"/>
+      <category term="Config" scheme="https://blog.scottygar.co.uk/tags/Config/"/>
     
   </entry>
   
   <entry>
     <title>#holiday</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/05/18/holiday/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/05/18/holiday/</id>
+    <link href="https://blog.scottygar.co.uk/2016/05/18/holiday/"/>
+    <id>https://blog.scottygar.co.uk/2016/05/18/holiday/</id>
     <published>2016-05-18T09:53:00.000Z</published>
     <updated>2016-05-18T10:04:00.000Z</updated>
     
@@ -481,27 +481,27 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
+      <category term="Work" scheme="https://blog.scottygar.co.uk/categories/Work/"/>
     
     
-      <category term="JSON" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/JSON/"/>
+      <category term="JSON" scheme="https://blog.scottygar.co.uk/tags/JSON/"/>
     
-      <category term="REST" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/REST/"/>
+      <category term="REST" scheme="https://blog.scottygar.co.uk/tags/REST/"/>
     
-      <category term="IA" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/IA/"/>
+      <category term="IA" scheme="https://blog.scottygar.co.uk/tags/IA/"/>
     
-      <category term="Holiday" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Holiday/"/>
+      <category term="Holiday" scheme="https://blog.scottygar.co.uk/tags/Holiday/"/>
     
-      <category term="Learning" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Learning/"/>
+      <category term="Learning" scheme="https://blog.scottygar.co.uk/tags/Learning/"/>
     
-      <category term="PoC" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/PoC/"/>
+      <category term="PoC" scheme="https://blog.scottygar.co.uk/tags/PoC/"/>
     
   </entry>
   
   <entry>
     <title>#no</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/05/11/no/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/05/11/no/</id>
+    <link href="https://blog.scottygar.co.uk/2016/05/11/no/"/>
+    <id>https://blog.scottygar.co.uk/2016/05/11/no/</id>
     <published>2016-05-11T15:41:00.000Z</published>
     <updated>2016-05-11T15:59:19.000Z</updated>
     
@@ -534,25 +534,25 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
+      <category term="Work" scheme="https://blog.scottygar.co.uk/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="Java" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Java/"/>
+      <category term="Java" scheme="https://blog.scottygar.co.uk/tags/Java/"/>
     
-      <category term="PersonalDevelopment" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/PersonalDevelopment/"/>
+      <category term="PersonalDevelopment" scheme="https://blog.scottygar.co.uk/tags/PersonalDevelopment/"/>
     
-      <category term="VBA" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/VBA/"/>
+      <category term="VBA" scheme="https://blog.scottygar.co.uk/tags/VBA/"/>
     
-      <category term="Training" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Training/"/>
+      <category term="Training" scheme="https://blog.scottygar.co.uk/tags/Training/"/>
     
   </entry>
   
   <entry>
     <title>#recap</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/05/02/recap/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/05/02/recap/</id>
+    <link href="https://blog.scottygar.co.uk/2016/05/02/recap/"/>
+    <id>https://blog.scottygar.co.uk/2016/05/02/recap/</id>
     <published>2016-05-02T17:36:00.000Z</published>
     <updated>2016-05-03T09:37:56.000Z</updated>
     
@@ -587,25 +587,25 @@
     
     </summary>
     
-      <category term="Work" scheme="https://scottygar.co.uk/bloggie-mcblogface/categories/Work/"/>
+      <category term="Work" scheme="https://blog.scottygar.co.uk/categories/Work/"/>
     
     
-      <category term="Tibco" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/Tibco/"/>
+      <category term="Tibco" scheme="https://blog.scottygar.co.uk/tags/Tibco/"/>
     
-      <category term="FirstPost" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/FirstPost/"/>
+      <category term="FirstPost" scheme="https://blog.scottygar.co.uk/tags/FirstPost/"/>
     
-      <category term="BAU" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/BAU/"/>
+      <category term="BAU" scheme="https://blog.scottygar.co.uk/tags/BAU/"/>
     
-      <category term="RCSA" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/RCSA/"/>
+      <category term="RCSA" scheme="https://blog.scottygar.co.uk/tags/RCSA/"/>
     
-      <category term="YBOY" scheme="https://scottygar.co.uk/bloggie-mcblogface/tags/YBOY/"/>
+      <category term="YBOY" scheme="https://blog.scottygar.co.uk/tags/YBOY/"/>
     
   </entry>
   
   <entry>
     <title>#blogstart</title>
-    <link href="https://scottygar.co.uk/bloggie-mcblogface/2016/04/29/blogstart/"/>
-    <id>https://scottygar.co.uk/bloggie-mcblogface/2016/04/29/blogstart/</id>
+    <link href="https://blog.scottygar.co.uk/2016/04/29/blogstart/"/>
+    <id>https://blog.scottygar.co.uk/2016/04/29/blogstart/</id>
     <published>2016-04-29T20:22:55.000Z</published>
     <updated>2016-04-29T20:22:55.000Z</updated>
     
